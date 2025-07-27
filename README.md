@@ -22,7 +22,7 @@
 ### 🧰 Tecnologías que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,vue,docker,git,html,css,js,vscode" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,vue,docker,git,html,css,js,vscode" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 
 ### 🌱 Actualmente aprendiendo
 
-- 🧩 Inteligencia Artificial aplicada al área de salud
+- 🔬 Inteligencia Artificial aplicada al área de salud
 - 🐳 DevOps con Docker + CI/CD
 - ☁️ Laravel con Livewire e Inertia.js
 
@@ -65,5 +65,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Gracias+por+visitar+mi+perfil!;Sígueme+para+ver+más+proyectos;💻+Laravel+es+amor&center=true&width=500&color=58A6FF&size=20">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Gracias+por+visitar+mi+perfil!;Laravel+es+mi+zona+de+confort+💖;Desarrollando+con+pasión&center=true&width=500&color=F55247&size=20">
 </p>
