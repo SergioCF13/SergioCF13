@@ -42,7 +42,10 @@
 |---------|-------------|
 | [🛒 sistemaGDT](https://github.com/SergioCF13/sistemaGDT) | Sistema de ventas con gestión de tickets, productos y reportes PDF |
 | 🧠 App IA Nutricional | Aplicación para recomendar dieta y ejercicios basada en IA (próximamente público) |
-| 📚 Control de Asistencia | Plataforma con escaneo QR para registrar entradas y salidas escolares |
+| 📚 sistema de venta mediante ticket | Sistema de venta para restaurantes |
+| 📚 Sistema administrativo Veterinaria | Sistema para administrar veterinaria |
+
+
 
 ---
 
