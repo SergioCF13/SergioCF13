@@ -4,9 +4,7 @@
   💻 Desarrollador Web Full Stack | PHP | Laravel | MySQL | Vue.js  
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="150" alt="developer gif">
-</p>
+
 
 ---
 
