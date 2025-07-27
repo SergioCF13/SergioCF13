@@ -1,34 +1,69 @@
-# 👋 ¡Hola! Soy Sergio Canaviri Felix
+<h1 align="center">¡Hola, soy Sergio Canaviri Felix! 👋</h1>
 
-💻 Desarrollador Web Full Stack de Bolivia  
-🛠️ Stack principal: PHP, Laravel, MySQL, JavaScript, Vue.js
+<p align="center">
+  💻 Desarrollador Web Full Stack | PHP | Laravel | MySQL | Vue.js  
+</p>
 
----
-
-## 🚀 Sobre mí
-
-Me apasiona crear soluciones web modernas. Trabajo en proyectos como:
-- ✅ Sistema de ventas para AgroSthil
-- 📚 Plataforma de control de asistencia con códigos QR
-- 🏥 App web para gestión nutricional con IA
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="150" alt="developer gif">
+</p>
 
 ---
 
-## 🧰 Tecnologías y herramientas
+### 🚀 Sobre mí
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-
----
-
-## 📈 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergioCF13&show_icons=true&theme=dark)
+- 🔧 Apasionado por crear soluciones web funcionales y modernas.
+- 👨‍💻 Actualmente desarrollando un sistema de ventas completo con Laravel y Vue.js para **AgroSthil**.
+- 🧠 Siempre aprendiendo nuevas tecnologías y buenas prácticas de desarrollo.
+- 🌐 También me gusta trabajar con Docker, APIs REST y arquitectura limpia.
 
 ---
 
-📫 **Contáctame:**  
-[📧 Gmail](mailto:tuemail@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/tuusuario)  
+### 🧰 Tecnologías que uso
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,vue,docker,git,html,css,js,vscode" />
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SergioCF13&show_icons=true&theme=tokyonight" alt="stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioCF13&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
+
+---
+
+### 💡 Proyectos Destacados
+
+| Proyecto | Descripción |
+|---------|-------------|
+| [🛒 sistemaGDT](https://github.com/SergioCF13/sistemaGDT) | Sistema de ventas con gestión de tickets, productos y reportes PDF |
+| 🧠 App IA Nutricional | Aplicación para recomendar dieta y ejercicios basada en IA (próximamente público) |
+| 📚 Control de Asistencia | Plataforma con escaneo QR para registrar entradas y salidas escolares |
+
+---
+
+### 🌱 Actualmente aprendiendo
+
+- 🧩 Inteligencia Artificial aplicada al área de salud
+- 🐳 DevOps con Docker + CI/CD
+- ☁️ Laravel con Livewire e Inertia.js
+
+---
+
+### 📫 ¡Hablemos!
+
+<p align="center">
+  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/SergioCF13"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Gracias+por+visitar+mi+perfil!;Sígueme+para+ver+más+proyectos;💻+Laravel+es+amor&center=true&width=500&color=58A6FF&size=20">
+</p>
