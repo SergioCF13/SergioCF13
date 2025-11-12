@@ -20,8 +20,9 @@
 ### 🧰 Tecnologías que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,vue,docker,git,html,css,js,vscode,.net,angular,terraform,aws" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,vue,docker,git,html,css,js,vscode,dotnet,angular,terraform,aws" />
 </p>
+
 
 
 ---
