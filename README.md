@@ -20,7 +20,7 @@
 ### 🧰 Tecnologías que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,vue,docker,git,html,css,js,vscode" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,vue,docker,git,html,css,js,vscode,.net" />
 </p>
 
 ---
