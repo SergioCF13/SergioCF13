@@ -1,21 +1,21 @@
 <h1 align="center">¡Hola, soy Sergio Canaviri Felix! 👋</h1>
 
 <p align="center">
-  💻 <b>Full Stack Developer</b> | Especialista en Ecosistemas PHP & JavaScript | Cloud & DevOps Enthusiast
+  💻 <b>Full Stack Developer</b> | PHP & JavaScript Specialist | Cloud, DevOps & API Testing
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Laravel+Expert+🚀;Full+Stack+Developer+💻;DevOps+%26+Cloud+Learning+☁️;Building+Scalable+Solutions+🏗️&center=true&width=500&color=F55247&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Laravel+Expert+🚀;Full+Stack+Developer+💻;DevOps+%26+Cloud+Enthusiast+☁️;API+Design+%26+Testing+🛠️&center=true&width=500&color=F55247&size=22">
 </p>
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🔧 **Expertise:** Creación de soluciones web modernas con enfoque en **Arquitectura Limpia** y **Lógica de Negocio (BL)** sólida.
-- 👨‍💻 **Proyecto Actual:** Desarrollando un ecosistema de ventas integral para **AgroSthil** utilizando **Laravel** y **Vue.js**.
-- ☁️ **Infraestructura:** Implementando flujos de trabajo eficientes con **Jenkins** para CI/CD y despliegues en **Azure**.
-- 🌐 **Versatilidad:** Dominio de frameworks frontend modernos como **Angular** y **Vue.js**, manteniendo un backend robusto en **PHP/Laravel**.
+- 🔧 **Expertise:** Especialista en crear soluciones web modernas con **Arquitectura Limpia** y **Lógica de Negocio (BL)** compleja.
+- 👨‍💻 **Proyecto Actual:** Liderando el desarrollo del sistema integral para **AgroSthil** con **Laravel** y **Vue.js**.
+- ☁️ **Infraestructura & CI/CD:** Automatización de despliegues mediante **Jenkins** y gestión de entornos en **Azure**.
+- 🛠️ **Calidad & APIs:** Experto en diseño y testeo de APIs con **Postman** para asegurar integraciones robustas.
 
 ---
 
@@ -26,15 +26,26 @@
   <img src="https://skillicons.dev/icons?i=laravel,php,js,angular,vue,nodejs,cs,dotnet" />
 </p>
 
-#### ⚙️ DevOps, Cloud & DB
+#### ⚙️ DevOps, Cloud & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=jenkins,azure,docker,terraform,aws,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=jenkins,azure,docker,postman,git,terraform,aws" />
 </p>
 
-#### 🛠️ Herramientas de Desarrollo
+#### 🗄️ Bases de Datos
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,html,css" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlserver" />
 </p>
+
+---
+
+### 💡 Proyectos Destacados
+
+| Proyecto | Tecnologías | Descripción |
+| :--- | :--- | :--- |
+| [🛒 sistemaGDT](https://github.com/SergioCF13/sistemaGDT) | Laravel, MySQL | Gestión de tickets, productos y reportes automatizados. |
+| 🛵 **PromoDelivery App** | Laravel, JS, SQL Server | Sistema especializado en la gestión y automatización de promociones para delivery. |
+| 🧠 App IA Nutricional | Python, AI, PHP | Recomendaciones de dieta basadas en redes neuronales. |
+| 📚 Sistema Ticket Rest. | Laravel, Vue.js | Optimización de flujo de ventas para hostelería. |
 
 ---
 
@@ -44,25 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SergioCF13&show_icons=true&theme=tokyonight" alt="stats" height="175">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioCF13&layout=compact&theme=tokyonight" alt="languages" height="175">
 </p>
-
----
-
-### 💡 Proyectos Destacados
-
-| Proyecto | Tecnologías | Descripción |
-| :--- | :--- | :--- |
-| [🛒 sistemaGDT](https://github.com/SergioCF13/sistemaGDT) | Laravel, MySQL, PDF | Gestión de tickets, productos y reportes automatizados. |
-| 🧠 App IA Nutricional | Python, AI, PHP | Recomendaciones de dieta basadas en redes neuronales. |
-| 📚 Sistema Ticket Rest. | Laravel, Vue.js | Optimización de flujo de ventas para hostelería. |
-| 🏥 Admin Veterinaria | Laravel, JS, BL | Control administrativo y clínico para mascotas. |
-
----
-
-### 🌱 Enfoque Actual de Aprendizaje
-
-- 🧪 **DevOps Avanzado:** Profundizando en pipelines complejos con **Jenkins** y contenedores.
-- ☁️ **Azure Cloud:** Especialización en servicios de cómputo y bases de datos gestionadas.
-- 🏗️ **Arquitectura:** Refinando patrones de diseño y **Inertia.js** para aplicaciones monolíticas modernas.
 
 ---
 
